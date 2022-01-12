@@ -1,0 +1,7 @@
+git config --global user.email "dyyoshida@gmail.com"
+
+git clone https://github.com/dyyoshida/Primeiro-repositorio.git
+
+git status
+
+CTRL + L  = Limpa tela
